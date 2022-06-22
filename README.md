@@ -7,8 +7,8 @@ To run the script :
 - Linux : python3 name_script.py 
 
 ![image](https://user-images.githubusercontent.com/85711559/175117010-fcfad2fc-7d2a-4e56-b00c-77def61549a0.png)
+`nano`
 
-`
  ______     __     ______   ______     __  __     __   __     ______    
 /\___  \   /\ \   /\__  _\ /\  __ \   /\ \/\ \   /\ "-.\ \   /\  ___\    
 \/_/  /__  \ \ \  \/_/\ \/ \ \ \/\ \  \ \ \_\ \  \ \ \-.  \  \ \  __\   
@@ -20,7 +20,7 @@ To run the script :
 *                  Copyright of Hamza MOUNIR, 2022                    *
 *                   https://github.com/ZITZITOUNE                     *
 ***********************************************************************
-`
+`nano`
 
 There are 3 versions of the script:
 
@@ -30,9 +30,6 @@ There are 3 versions of the script:
   <li>bruteforce_ssh_v3.py</li>
 </ol>
 
-1/bruteforce_ssh.py
-2/bruteforce_ssh_v2.py
-3/bruteforce_ssh_v3.py
 
 - The first allows values to be passed as arguments when launching the script.
 ![image](https://user-images.githubusercontent.com/85711559/175117792-759ada5f-df67-4fc5-a22e-20134ace149f.png)
