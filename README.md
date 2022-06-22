@@ -7,7 +7,7 @@ To run the script :
 - Linux : python3 name_script.py 
 
 ![image](https://user-images.githubusercontent.com/85711559/175117010-fcfad2fc-7d2a-4e56-b00c-77def61549a0.png)
-`nano`
+`*                  Copyright of Hamza MOUNIR, 2022                    *`
 
  ______     __     ______   ______     __  __     __   __     ______    
 /\___  \   /\ \   /\__  _\ /\  __ \   /\ \/\ \   /\ "-.\ \   /\  ___\    
