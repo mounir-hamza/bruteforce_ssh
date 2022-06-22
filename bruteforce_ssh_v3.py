@@ -5,7 +5,7 @@ import socket
 import paramiko
 import ipaddress
 import tkinter as tk
-from tkinter import filedialog, messagebox
+from tkinter import filedialog
 
 # colored text and background
 def colorRed(clr): print("\033[91m {}\033[00m".format(clr))
