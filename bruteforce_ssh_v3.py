@@ -3,9 +3,6 @@ import sys
 import os
 import socket
 import paramiko
-import argparse
-import ipaddress
-import re
 import ipaddress
 import tkinter as tk
 from tkinter import filedialog, messagebox
