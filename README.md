@@ -3,8 +3,8 @@
 _Python code to bruteforce the SSH protocol._
 
 To run the script :
-Windows : python name_script.py 
-Linux : python3 name_script.py 
+- Windows : python name_script.py 
+- Linux : python3 name_script.py 
 
 ![image](https://user-images.githubusercontent.com/85711559/175117010-fcfad2fc-7d2a-4e56-b00c-77def61549a0.png)
 
