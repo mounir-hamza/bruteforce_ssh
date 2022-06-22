@@ -11,8 +11,10 @@ There are 3 versions of the script:
 3/bruteforce_ssh_v3.py
 
 - The first allows values to be passed as arguments when launching the script.
+![image](https://user-images.githubusercontent.com/85711559/175117792-759ada5f-df67-4fc5-a22e-20134ace149f.png)
 
 - The second allows interaction with the script, and asks us for the ip address, the port, and the paths of the wordlists.
+![image](https://user-images.githubusercontent.com/85711559/175117564-df630fa4-23b5-491a-b1f3-2593bdbfdf9b.png)
 
 - The third is like the second, but allows you to either enter the paths of the wordlists, or to open a file explorer to choose the wordlists from the file explorer.
 ![image](https://user-images.githubusercontent.com/85711559/175116284-cc4174c5-f2bd-4e80-8720-4fbb6bba5db4.png)
