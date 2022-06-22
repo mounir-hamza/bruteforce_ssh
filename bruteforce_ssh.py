@@ -21,14 +21,10 @@ def colorReset(clr): print("\033[0m {}\033[00m".format(clr))
 parser = argparse.ArgumentParser()
 
 # establish the accepted args
-parser.add_argument('-ip', dest='_target_ip', type=str,
-                    help='ip address of the target')
-parser.add_argument('-port', dest='_target_port', type=str,
-                    help='port of active ssh server')
-parser.add_argument('-u', dest='_user_list', type=str,
-                    help='path to list of usernames')
-parser.add_argument('-p', dest='_pass_list', type=str,
-                    help='path to list of passwords')
+parser.add_argument('-ip', dest='_target_ip')
+parser.add_argument('-port', dest='_target_port')
+parser.add_argument('-u', dest='_user_list')
+parser.add_argument('-p', dest='_pass_list')
 
 # parse the args
 args = parser.parse_args()
